@@ -14,6 +14,17 @@
 	name = "\improper CentCom Cap"
 	icon_state = "centcom_cap"
 
+/obj/item/clothing/head/gestapo
+    name = "Gestapo cap"
+	desc = "meine arbeiten..!"
+    icon_state = "gestapo_head"
+    item_state = "gestapo_head"
+    icon = 'modular_bluemoon/icons/obj/clothing/hats.dmi'
+    mob_overlay_icon = 'modular_bluemoon/icons/mob/clothing/hats.dmi'
+    lefthand_file = 'modular_bluemoon/icons/mob/inhands/clothing_lefthand.dmi'
+    righthand_file = 'modular_bluemoon/icons/mob/inhands/clothing_righthand.dmi'
+    mutantrace_variation = STYLE_DIGITIGRADE|STYLE_NO_ANTHRO_ICON
+
 
 /obj/item/clothing/head/spacepolice
 	name = "space police cap"
